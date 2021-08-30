@@ -1,3 +1,2 @@
 # Bruce-Lee-Tribute-Page
-Bruce lee martial art legend tribute page
-built from scratch no google
+built from scratch no google hard af
